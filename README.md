@@ -150,11 +150,9 @@ flowchart LR
 
 ## GitHub Repository
 
-**Repository URL:** https://github.com/<your-username>/NEXORA-AI-HRMS
+**Repository URL:** https://github.com/satyam2224/NEXORA-AI-HRMS
 
-> The repository name is `NEXORA-AI-HRMS`. Replace `<your-username>` with your
-> GitHub username once Bolt's GitHub integration creates the repo and pushes
-> the code (see the "Connect GitHub and upload" step).
+> The repository is live at `https://github.com/satyam2224/NEXORA-AI-HRMS`.
 
 ## Prerequisites
 
@@ -165,7 +163,7 @@ flowchart LR
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/NEXORA-AI-HRMS.git
+git clone https://github.com/satyam2224/NEXORA-AI-HRMS.git
 cd NEXORA-AI-HRMS
 npm install
 cp .env.example .env   # then fill in your Supabase public keys
