@@ -1,0 +1,3 @@
+[functions.ai-hr-assistant]
+verify_jwt = true
+entrypoint = "./functions/ai-hr-assistant/index.ts"
